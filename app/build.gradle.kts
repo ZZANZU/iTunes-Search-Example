@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.zzanzu.itunes_search_example"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.zzanzu.itunes_search_example"
