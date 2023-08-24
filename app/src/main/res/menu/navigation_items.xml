@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@+id/action_search"
+    <item android:id="@+id/fragment_search"
         android:title="@string/navigation_title_search"
         android:icon="@drawable/icon_search"
         />
-    <item android:id="@+id/action_favorite"
+    <item android:id="@+id/fragment_favorite"
         android:title="@string/navigation_title_favorite"
         android:icon="@drawable/icon_favorite"
         />
